@@ -1,5 +1,5 @@
 baseURL = "https://sreeraminsights.github.io/sreeram/"
-title = "My New Hugo Site"
+title = "Sreeram insights"
 theme = "hugo-starter"
 
 [menu]
